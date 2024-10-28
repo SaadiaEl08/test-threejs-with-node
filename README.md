@@ -2,6 +2,10 @@
 
 This project demonstrates a basic 3D scene created with **Three.js** and **Node.js**. The scene includes a sphere and a torus (doughnut shape), set against a background, illuminated by spot lighting, and includes basic camera controls. This setup uses **Vite** as the development server for faster bundling and optimized builds.
 
+## Project Demo
+
+![Project Demo](./demo.gif)
+
 ## Project Features
 
 - **Three.js**: 3D library to create and animate WebGL content.
