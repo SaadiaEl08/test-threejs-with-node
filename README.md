@@ -56,6 +56,7 @@ This project demonstrates a basic 3D scene created with **Three.js** and **Node.
 - **Renderer**: `WebGLRenderer` with window size and pixel ratio settings.
 - **Controls**: `OrbitControls` allows users to rotate, zoom, and pan the scene.
 - **Animation**: Updates the torus rotation and refreshes the render.
+- **Responsive**: Updates the camera aspect and the renderer position to make the scene responsive.
 
 ## Dependencies
 
